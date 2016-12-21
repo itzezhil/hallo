@@ -9,5 +9,6 @@ namespace hallo
     class Circle
     {
         public int Radius {get;set;}
+        public float Area {get;set;}
     }
 }
