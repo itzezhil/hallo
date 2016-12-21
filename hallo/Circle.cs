@@ -8,5 +8,6 @@ namespace hallo
 {
     class Circle
     {
+        public Stirng Radius {get;set;}
     }
 }
