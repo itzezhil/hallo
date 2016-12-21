@@ -9,6 +9,14 @@ namespace hallo
     class Circle
     {
         public int Radius {get;set;}
-        public float Area {get;set;}
+        
+
+        public float getarea()
+        {
+            return Radius * 22 / 7.0f;
+        }
+
     }
+
+
 }
